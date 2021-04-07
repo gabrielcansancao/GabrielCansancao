@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**GabrielCansancao/GabrielCansancao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GabrielCansancao/GabrielCansancao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 Estudante de engenharia de Software na UFMS e atualmente engenheiro de QA na Jera, 
 
 Skills: Ruby / Ruby on Rails / Rspec/ Capybara / Node / Java / JS / HTML / CSS 
