@@ -7,7 +7,7 @@ Estudante de engenharia de Software na UFMS e atualmente engenheiro de QA na Jer
 Skills: Ruby / Ruby on Rails / Rspec/ Capybara / Node / Java / JS / HTML / CSS 
 
 - 🔭 I’m currently working on Ruby on rails and capybara 
-- 🌱 I’m currently learning Cypress, Java and Ruby
+- 🌱 I’m currently learning Cypress, Java, Selenium and Ruby
 - 👯 I’m looking to collaborate on Libs 
 - 🤔 I’m looking for help with Cypress and Java 
 
