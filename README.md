@@ -9,7 +9,7 @@ Skills: Ruby / Ruby on Rails / Rspec/ Capybara / Node / Java / JS / HTML / CSS
 - 🔭 I’m currently working on Ruby on rails and capybara 
 - 🌱 I’m currently learning Cypress, Java, Selenium and Ruby
 - 👯 I’m looking to collaborate on Libs 
-- 🤔 I’m looking for help with Cypress and Java 
+- 🤔 I’m looking for help with Cypress and Selenium 
 
 
 [<img src='https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617789305~hmac=8d50a1973828351f99e0f53ad3ab690b' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabrielcansancao/)   [<img src='https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1617789463~hmac=100d468459c0203efc88ccee5a7935b7' alt='instagram' height='40'>](https://www.instagram.com/gabrielkans/) 
